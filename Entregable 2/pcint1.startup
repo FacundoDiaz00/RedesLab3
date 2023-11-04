@@ -1,1 +1,1 @@
-ifconfig eth0 20.23.23.2 netmask 255.255.255.252 broadcast 20.23.23.3 up
+ifconfig eth0 23.23.23.2 netmask 255.255.255.252 broadcast 23.23.23.3 up
